@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David Abraham's professional website"
+title: "Welcome to David Abraham's professional website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,13 +11,10 @@ redirect_from:
 
 I am a PhD candidate in Economics at London Business School who will be on the academic job market this coming cycle. My research interests are applied micro and macro economics, with a particular focus on belief formation.
 
-[CV](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0)
+My full CV can be found [here](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0).
 
-### Working papers
 
 **Aggregate Effects of Antitrust Enforcement** (JMP)
-</br>
-</br>
 
 
 **Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU)
