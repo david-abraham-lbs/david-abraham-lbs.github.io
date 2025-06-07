@@ -9,56 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+Complete CV as [PDF](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics, London Business School, 2020-2026 (expected)
+* M.Sc. in Quantitative Economic History (distinction), London School of Economics, 2019-2020
+* B.A. in History (honors) and Economics (honors), University of Chicago, 2013-2017
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Novantas Banking Analytics and Advisory (now Curinos), New York, 2017-2019
+* Institute for Policy Studies, Washington D.C., 2014
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, Python, Java
+* SQL, Excel
+* LaTeX
+* Photoshop
 
-Publications
+Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coffee making
+* Cocktail mixing
+* Corgi walking
