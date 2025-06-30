@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 **Aggregate Effects of Antitrust Enforcement** (JMP)
-</br>
-</br>
 
 
 **Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU)
