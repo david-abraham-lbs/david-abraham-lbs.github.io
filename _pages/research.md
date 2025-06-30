@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Aggregate Effects of Antitrust Enforcement** (JMP)
+
 (draft forthcoming)
 
 
