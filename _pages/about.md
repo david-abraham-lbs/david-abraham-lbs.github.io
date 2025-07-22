@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at London Business School who will be on the a
 My full CV can be found [here](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0).
 
 
-**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU) [JMP]
+**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU) _(JMP)_
 
 [[Paper](https://www.dropbox.com/scl/fi/bgk0hvw87r1imb24mdtm8/peer_effects_in_entrepreneurship_20250521.pdf?rlkey=6k9p8dmeyjkua933d0ed79u3j&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/v1s79u5u9pfyrk1ifccmm/Peer_Effects_in_Entrepreneurship.pdf?rlkey=csqtqcx9sm8kbiypk4ht1yf9s&dl=0)]
 
