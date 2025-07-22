@@ -5,12 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Aggregate Effects of Antitrust Enforcement** (JMP)
-
-(draft forthcoming)
-
-
-**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU)
+**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU) [JMP]
 
 [[Paper](https://www.dropbox.com/scl/fi/bgk0hvw87r1imb24mdtm8/peer_effects_in_entrepreneurship_20250521.pdf?rlkey=6k9p8dmeyjkua933d0ed79u3j&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/v1s79u5u9pfyrk1ifccmm/Peer_Effects_in_Entrepreneurship.pdf?rlkey=csqtqcx9sm8kbiypk4ht1yf9s&dl=0)]
 
