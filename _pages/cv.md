@@ -19,6 +19,7 @@ Education
 
 Professional experience
 ======
+* Research asssistant at London Business School, 2019, 2022-2025
 * Novantas Banking Analytics and Advisory (now Curinos), New York, 2017-2019
 * Institute for Policy Studies, Washington D.C., 2014
   
@@ -28,6 +29,12 @@ Skills
 * SQL, Excel
 * LaTeX
 * Photoshop
+
+Languges
+======
+* English (native)
+* Spanish (intermediate)
+* Chinese (basic)
 
 Interests
 ======
