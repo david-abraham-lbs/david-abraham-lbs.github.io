@@ -14,8 +14,8 @@ Complete CV as [PDF](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_
 Education
 ======
 * Ph.D. in Economics, London Business School, 2020-2026 (expected)
-* M.Sc. in Quantitative Economic History (distinction), London School of Economics, 2019-2020
-* B.A. in History (honors) and Economics (honors), University of Chicago, 2013-2017
+* M.Sc. in Quantitative Economic History (Distinction), London School of Economics, 2019-2020
+* B.A. in Economics (honors) and B.A. in History (honors), University of Chicago, 2013-2017
 
 Professional experience
 ======
