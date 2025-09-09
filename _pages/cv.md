@@ -19,7 +19,7 @@ Education
 
 Professional experience
 ======
-* Research asssistant at London Business School, London, 2019 & 2022-2025
+* Research asssistant at London Business School, London, 2019-2020 & 2022-2025
 * Novantas Banking Analytics and Advisory (now Curinos), New York, 2017-2019
 * Institute for Policy Studies, Washington DC, 2014
   
