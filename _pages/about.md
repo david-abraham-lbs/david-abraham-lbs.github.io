@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me
 
-I am a PhD candidate in Economics at London Business School who will be on the academic job market this coming cycle. My research interests are applied micro and macro economics, with a particular focus on belief formation.
+I am a PhD candidate in Economics at London Business School. My research interests are applied micro and macro economics, with a particular focus on belief formation.
 
 My full CV can be found [here](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0).
 
