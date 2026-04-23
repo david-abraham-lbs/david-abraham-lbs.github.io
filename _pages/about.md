@@ -25,7 +25,7 @@ We study how exposure to peers with entrepreneurship experience affects new entr
 
 **Aggregate Effects of Antitrust Enforcement**
 
-[[Paper]([https://www.dropbox.com/scl/fi/77tp4bi3d8598oiij595n/David_Abraham_JMP.pdf?rlkey=r4jtdshnjd1zm4irgl3aj3ljt&st=4jo9nq2n&dl=0](https://www.dropbox.com/scl/fi/su9suy8q2pvga5g2cpznh/David_Abraham_Antitrust.pdf?rlkey=migculvah531zhc2lx0o9re5u&dl=0))]
+[[Paper](https://www.dropbox.com/scl/fi/su9suy8q2pvga5g2cpznh/David_Abraham_Antitrust.pdf?rlkey=migculvah531zhc2lx0o9re5u&dl=0)]
 
 What are the direct and indirect effects of antitrust policy enforcement? That question relates to multiple areas within the economics literature: competition policy's contribution to overall welfare; increasing firm size and its consequences; and the impact of a specific fiscal policy. This paper provides three contributions. First, it offers new estimates for the economic impact of antitrust enforcement. Second, it links the active debate over markups with the antitrust and fiscal policy literatures. Third, it leverages a subset of a novel dataset of US government appropriations.
 
