@@ -9,12 +9,12 @@ redirect_from:
 
 ### About me
 
-I am a PhD candidate in Economics at London Business School. My research interests are applied micro and macro economics, with a particular focus on belief formation.
+I am a PhD candidate in Economics at London Business School. My research interests are applied micro and macro economics, with a particular focus on economic history. In July 2026 I will start work as a Competition Economist at Fideres based in London, UK.
 
 My full CV can be found [here](https://www.dropbox.com/scl/fi/uheceocapaizkszx9dmac/David_Abraham_CV.pdf?rlkey=fq73jilr4vi2b2e1wvm3vu27p&dl=0).
 
 
-**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU) _(JMP)_
+**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU)
 
 [[Paper](https://www.dropbox.com/scl/fi/77tp4bi3d8598oiij595n/David_Abraham_JMP.pdf?rlkey=r4jtdshnjd1zm4irgl3aj3ljt&st=4jo9nq2n&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/atn2ugtuempejpkdzdsy8/David_Abraham_JMP_Presentation.pdf?rlkey=bcjkzo3ynuq16gef0l6fqfnp2&st=yesvfdum&dl=0)]
 
