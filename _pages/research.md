@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU) _(JMP)_
+**Peer Effects in Entrepreneurship**, with Andrea Galeotti (LBS) and Adam Szeidl (CEU)
 
 [[Paper](https://www.dropbox.com/scl/fi/77tp4bi3d8598oiij595n/David_Abraham_JMP.pdf?rlkey=r4jtdshnjd1zm4irgl3aj3ljt&st=4jo9nq2n&dl=0)] [[Slides](https://www.dropbox.com/scl/fi/atn2ugtuempejpkdzdsy8/David_Abraham_JMP_Presentation.pdf?rlkey=bcjkzo3ynuq16gef0l6fqfnp2&st=yesvfdum&dl=0)]
 
